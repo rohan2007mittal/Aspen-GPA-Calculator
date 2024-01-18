@@ -1,6 +1,4 @@
 const puppeteer = require('puppeteer');
-// const username = 'rohan.mittal@greenwichschools.org';
-// const password = "H0r!z0n123";
 
 const readline = require('readline');
 
